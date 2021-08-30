@@ -1,0 +1,23 @@
+body {
+    background: url("../html-css/img/brawl.png");
+    font-family: Arial;
+    line-height:1.5;
+    font-size: 18px;
+}
+.card {
+    width:400px;
+    margin: 0 auto;
+box-shadow:0px 25px 10px;
+border-radius:10px;
+}
+.card-photo{
+    display:block;
+    width:200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius:360px;
+}
+.card-name{
+    font-size: 20px;
+    text-align: center;
+}
